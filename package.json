@@ -1,0 +1,29 @@
+{
+  "name": "pomade.js",
+  "namespace": "Pomade",
+  "version": "0.0.1-alpha.1",
+  "author": "Jay Phelps",
+  "license": "MIT",
+  "main": "pomade.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jayphelps/pomade.js.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-cli": "~0.1.8",
+    "connect": "~2.11.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-hang": "~0.1.2",
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-es6-module-transpiler": "~0.6.0",
+    "load-grunt-config": "~0.7.0",
+    "load-grunt-tasks": "~0.3.0",
+    "grunt-bower-concat": "~0.2.4"
+  }
+}
