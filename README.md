@@ -1,5 +1,7 @@
 Pomade.js
 ===========
+Work in progress...
+
 Decorate a JavaScript object by giving read-only access to a `Delegate`.
 
 ## Usage
